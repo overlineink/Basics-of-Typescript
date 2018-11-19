@@ -1,4 +1,4 @@
-# What is Typescript?
+# What is Typescript? 🤔
 
 Typescript is not an entire new language. Its a super for the Javascript, that means any valid Javascript code is also valid Typescript code. But typescript has additional features that not exists on Javascript supported on most browsers out there.
 
