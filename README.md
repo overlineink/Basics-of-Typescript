@@ -5,7 +5,7 @@
 
 # What is Typescript? 🤔
 
-Typescript is not an entire new language. Its a super for the Javascript, that means any valid Javascript code is also valid Typescript code. But typescript has additional features that not exists on Javascript supported on most browsers out there.
+Typescript is not an entire new language. Its a superset for the Javascript, that means any valid Javascript code is also valid Typescript code. But typescript has additional features that not exists on Javascript supported on most browsers out there.
 
 #### Strong Typing 
 For example in Typescript we've this concept of Strong or Static typing. If you already working with languages like Java, C# (...) when we define a variable we need to specify the type of that variable, but in Typescript typing is optional we don't need to use this feature, but using this feature make our application more predictable and make more easy to debug 'em when something goes wrong.
