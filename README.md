@@ -23,5 +23,5 @@ So Typescript is a beautifull language and basicly is a superset of Javascript, 
 The browsers out there they not understand Typescript, is very unlikely they are going to support 'em in the future. So we need to compile or more acurasly transpile our Typescript code into Javascript. So this is part of building application, whenever we build an application Typescript compiler kick in and transpile Typescript  code into Javascript that browser can understand.
 
 
-👉 See the Oficiail Documentation (here)[https://github.com/Microsoft/TypeScript#documentation]
-🚀 Or Jump to (Quick-start)[https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html] for newbies 
+👉 See the Oficiail Documentation [here](https://github.com/Microsoft/TypeScript#documentation)
+🚀 Or Jump to [Quick-start](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for newbies 
