@@ -24,4 +24,14 @@ The browsers out there they not understand Typescript, is very unlikely they are
 
 
 👉 See the Oficiail Documentation [here](https://github.com/Microsoft/TypeScript#documentation)
-🚀 Or Jump to [Quick-start](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for newbies 
+or 🚀 jump to [Quick-start](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html) for newbies
+
+# Where I can use Typescript?
+
+Your can use Typescript to build modern applications for the web, mobile, or desktop.
+* DEVELOP ACROSS ALL PLATFORMS
+Learn one way to build applications with [Angular](https://angular.io) and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.
+
+* Mobile Development with Typescript
+[IONIC](https://ionicframework.com/) Build amazing apps in one codebase, for any platform (Android, iOS & Windows Phone), with the web.
+Ionic lets web developers build, test, and deploy cross-platform hybrid mobile apps easier than ever.
